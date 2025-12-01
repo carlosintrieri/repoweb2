@@ -1,0 +1,8 @@
+com\automanager\autoboots\model\Documento.class
+com\automanager\autoboots\model\Cliente.class
+com\automanager\autoboots\repository\ClienteRepository.class
+com\automanager\autoboots\model\Telefone.class
+com\automanager\autoboots\service\ClienteService.class
+com\automanager\autoboots\controller\ClienteController.class
+com\automanager\autoboots\AutoBootsApplication.class
+com\automanager\autoboots\model\Endereco.class
