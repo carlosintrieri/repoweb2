@@ -13,3 +13,6 @@ export default class MenuTipoDocumento implements Menu {
         console.log(`----------------------`)
     }
 }
+
+
+

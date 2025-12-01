@@ -8,3 +8,6 @@ export default class Telefone {
     public get Ddd() { return this.ddd }
     public get Numero() { return this.numero }
 }
+
+
+

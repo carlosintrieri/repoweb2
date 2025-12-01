@@ -3,3 +3,5 @@ export enum TipoDocumento {
     RG = 'Registro Geral',
     Passaporte = 'Passaporte'
 }
+
+
